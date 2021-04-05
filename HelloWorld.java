@@ -10,7 +10,7 @@ public class HelloWorld{
 
         // mengisi varibel
         nama = "Petani Kode";
-        alamat = "Internet"
+        alamat = "Internet";
         usia = 20;
         tinggi = 164.6;
 
